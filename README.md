@@ -1,0 +1,1 @@
+Common library to create an interactive command line framework. I wrote it in school time without knowing apache common cli.
